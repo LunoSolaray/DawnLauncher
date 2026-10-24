@@ -1,0 +1,13 @@
+bin/
+obj/
+/dist/
+.vs/
+*.user
+*.suo
+
+/DawnLauncher/
+/OpenLauncher/
+/.minecraft/
+
+private-key.xml
+*.private.xml
